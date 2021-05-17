@@ -1,3 +1,2 @@
-.gitignore
 .idea
-**/obj
+GeneratedPatternFiles/obj/
