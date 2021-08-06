@@ -1,4 +1,7 @@
-﻿namespace Namespace
+﻿using System.Collections.Generic;
+using System.Linq;
+
+namespace Namespace
 {
     public class Flyweight
     {

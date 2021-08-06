@@ -7,9 +7,9 @@
 
     public class SimpleCommand : ICommand
     {
-        private type1 payload;
+        private string payload;
 
-        public SimpleCommand(type1 payload)
+        public SimpleCommand(string payload)
         {
             this.payload = payload;
         }
